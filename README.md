@@ -9,6 +9,8 @@ We propose a nobel multi-view face landmark point (LP) detection that operate ac
 
 ### How to use
 
+- First, you need to unzip trained dataset in 'data'.
+
 - You can detect LP with webcam.
 
 ```Shell
