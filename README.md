@@ -9,7 +9,7 @@ We propose a nobel multi-view face landmark point (LP) detection that operate ac
 
 ### How to use
 
-- First, you need to unzip trained dataset in 'data'.
+First, you need to unzip trained dataset in 'data'. After that, you can apply to webcam, video file and image files. Follow the instruction below.
 
 - You can detect LP with webcam.
 
